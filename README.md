@@ -11,8 +11,7 @@ We are going to cover how to get your project online, so that it can be accessed
 There are various technologies to do so. Today we will be covering the following:-
 1. PHP+Mysql
 2. Node+mysql
-3. Python+mysql
-4. MongoDB+Node
+3. MongoDB
 
 ## Hosting a project using MySQL
 
@@ -27,6 +26,8 @@ Usually, in this scenario most free hosting providers only allow to the database
 
 Hosting provider:[https://www.infinityfree.com/](https://www.infinityfree.com/)
 
+
+
 #### Using separate machines
 If the hosting provider allows access to the database from external machines and you choose to use it, this is how you can do it.
 
@@ -37,6 +38,9 @@ Hosting provider: [www.webhostmost.com](https://www.webhostmost.com)
 
 Backend Hosting: [https://render.com/](https://render.com/)
 
+Code: In `node_mysql` directory
+
+Backend site: [https://remote-database-connectivity-lecture.onrender.com/friends](https://remote-database-connectivity-lecture.onrender.com/friends)
 
 **STEPS**
 1. Create a free account on webhostmost.com
@@ -46,15 +50,8 @@ Backend Hosting: [https://render.com/](https://render.com/)
 5. Connect to the database from the backend code. 
 6. Verify everything.
 
-##### Using Flask
-Hosting provider: [www.webhostmost.com](https://www.webhostmost.com)
-
-Backend Hosting: [https://render.com/](https://render.com/)
-
-
 
 #### Hosting MongoDB 
 
 
-#### Hosting Frontend
 
