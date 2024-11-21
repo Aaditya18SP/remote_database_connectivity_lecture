@@ -27,6 +27,7 @@ Hosting provider:[https://www.infinityfree.com/](https://www.infinityfree.com/)
 #### Using separate machines
 If the hosting provider allows access to the database from external machines and you choose to use it, this is how you can do it.
 
+[separate machines image]()
 ##### Using NodeJS and ExpressJS
 Hosting provider: [www.webhostmost.com](https://www.webhostmost.com)
 
