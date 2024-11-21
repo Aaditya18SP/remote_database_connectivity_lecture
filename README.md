@@ -38,7 +38,7 @@ Hosting provider: [www.webhostmost.com](https://www.webhostmost.com)
 
 Backend Hosting: [https://render.com/](https://render.com/)
 
-Code: In `node_mysql` directory
+Code: In [node_mysql](https://github.com/Aaditya18SP/remote_database_connectivity_lecture/tree/main/node_mysql) directory
 
 Backend site: [https://remote-database-connectivity-lecture.onrender.com/friends](https://remote-database-connectivity-lecture.onrender.com/friends)
 
