@@ -6,6 +6,7 @@ labels: ''
 assignees: ''
 
 ---
+***NOTE: Kindly do not delete any of the text below. The issues are a markdown file and use the markdown formatting, hence they have meaning. Check out the preview tab to see how your issue will be visible to others.***
 
 # Issue 
 
