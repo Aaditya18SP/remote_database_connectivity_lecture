@@ -1,7 +1,7 @@
 # Deploying your project
 This repository covers the how to deploy your project(website,app) on the internet. We cover PHP+MYSQL, NodeJS+MongoDB and NodeJS and MySQL. 
 
-[Refer the documentation for more detailed info](https://github.com/Aaditya18SP/remote_database_connectivity_lecture/wiki/Introduction)
+[Refer the documentation for more detailed info](https://github.com/Aaditya18SP/remote_database_connectivity_lecture/wiki/A.-Introduction)
 
 
 ## Deployed project using NodeJS and ExpressJS
